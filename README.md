@@ -1,27 +1,29 @@
-# 🚀 OrdoAI – Inteligentny Asystent Produktywności  
+# 🚀 OrdoAI – Intelligent Productivity Assistant  
 
 ![Zrzut ekranu 2025-03-22 o 22 13 12](https://github.com/user-attachments/assets/ec8d6277-922f-4a4b-abc7-499a56c7f7b7)
 
-## 🔑 Kluczowe funkcje
-✅ **Lista zadań** – Twórz, zarządzaj i śledź swoje zadania.  
-✅ **Wydarzenia w kalendarzu** – Dodawaj i synchronizuj wydarzenia.  
-✅ **Ustalanie celów** – Twórz długoterminowe plany i monitoruj postępy.  
-✅ **Zarządzanie czasem** – Praktyczne wskazówki zwiększające efektywność.  
-✅ **Lepsza koncentracja** – Narzędzia pomagające w utrzymaniu skupienia.  
-✅ **Pomysły na produktywność** – Inspiracje i techniki optymalizujące pracę.  
+---
+
+## 🔑 Key Features
+✅ **To-Do List** – Create, manage, and track your tasks.  
+✅ **Calendar Events** – Add and sync your events.  
+✅ **Goal Setting** – Plan long-term objectives and track progress.  
+✅ **Time Management Tips** – Practical advice for improving efficiency.  
+✅ **Focus Improvement** – Tools to help maintain concentration.  
+✅ **Productivity Ideas** – Inspiration and techniques for optimizing work.  
 
 ---
 
-## 🛠 Technologie
-- **Next.js** – Wydajny framework React do budowy interfejsu.  
-- **Tailwind CSS** – Nowoczesny i elastyczny system styli.  
-- **TypeScript** – Bezpieczne i skalowalne programowanie.  
+## 🛠 Technologies
+- **Next.js** – A powerful React framework for building modern web applications.  
+- **Tailwind CSS** – A flexible and efficient styling system.  
+- **TypeScript** – Ensures safe and scalable development.  
 
 ---
 
-## 📥 Instalacja
+## 📥 Installation  
 
-1️⃣ **Klonowanie repozytorium**  
+1️⃣ **Clone the repository**  
 ```sh
 git clone https://github.com/24Studio/Productivity-Dashboard.git
 cd Productivity-Dashboard
