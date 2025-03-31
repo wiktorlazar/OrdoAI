@@ -1,4 +1,5 @@
-![24 (14)](https://github.com/user-attachments/assets/ee628a0a-a26e-4966-b544-6ece4a6e2a65)
+
+![24 (13)](https://github.com/user-attachments/assets/6e9f574f-0313-4315-bae7-3cd02a42821a)
 
 # 🚀 OrdoAI – Intelligent Productivity Assistant  
 
