@@ -1,3 +1,5 @@
+![24 (14)](https://github.com/user-attachments/assets/ee628a0a-a26e-4966-b544-6ece4a6e2a65)
+
 # 🚀 OrdoAI – Intelligent Productivity Assistant  
 
 ![Zrzut ekranu 2025-03-22 o 22 13 12](https://github.com/user-attachments/assets/ec8d6277-922f-4a4b-abc7-499a56c7f7b7)
