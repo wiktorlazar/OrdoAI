@@ -1,11 +1,10 @@
-
-![24 (13)](https://github.com/user-attachments/assets/6e9f574f-0313-4315-bae7-3cd02a42821a)
+<!-- LOGO -->
+![Logo](https://github.com/user-attachments/assets/6e9f574f-0313-4315-bae7-3cd02a42821a)
 
 # 🚀 OrdoAI – Intelligent Productivity Assistant  
 
-![Zrzut ekranu 2025-03-22 o 22 13 12](https://github.com/user-attachments/assets/ec8d6277-922f-4a4b-abc7-499a56c7f7b7)
-
----
+<!-- BACKGROUND -->
+![Background Image](https://github.com/user-attachments/assets/ec8d6277-922f-4a4b-abc7-499a56c7f7b7)
 
 ## 🔑 Key Features
 ✅ **To-Do List** – Create, manage, and track your tasks.  
